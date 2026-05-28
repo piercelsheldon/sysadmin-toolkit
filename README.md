@@ -1,4 +1,4 @@
-# PowerShell SysAdmin Toolkit
+# SysAdmin Toolkit
 
 A collection of production-ready PowerShell scripts designed to automate system administration, identity management, and endpoint maintenance tasks.
 
